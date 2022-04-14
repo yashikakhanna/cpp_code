@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646417121 source:c:\users\acer\documents\program\calculator\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+	<conio.h>
+
